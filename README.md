@@ -1,0 +1,1 @@
+# HardcoverApp_Scrapper
